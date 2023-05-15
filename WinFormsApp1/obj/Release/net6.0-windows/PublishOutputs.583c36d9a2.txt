@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\WinFormsApp1.exe
+C:\Users\DELL\Desktop\WinFormsApp1.dll
+C:\Users\DELL\Desktop\WinFormsApp1.deps.json
+C:\Users\DELL\Desktop\WinFormsApp1.runtimeconfig.json
+C:\Users\DELL\Desktop\WinFormsApp1.pdb
+C:\Users\DELL\Desktop\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
